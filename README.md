@@ -53,7 +53,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
 - [x] Set up a landing page (see [this list of landing page tools](https://draft.dev/learn/tools/landing-pages)).
 - [x] Create "About" and "Contact" pages.
 - [x] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
-- [ ] Consider/test various pricing options:
+- [x] Consider/test various pricing options:
   - [x] Create a free or trial tier for your paid product.
   - [x] Offer a 100% satisfaction/money-back guarantee.
   - [x] Make product invite-only to start.
