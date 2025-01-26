@@ -82,7 +82,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
 > _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
 
 - [x] Set up email address to send and receive emails.
-- [ ] Set up email list and signup form.
+- [x] Set up email list and signup form.
 - [ ] Create a standard email template for your brand.
 - [ ] Create transactional emails for when users sign up/purchase.
 
