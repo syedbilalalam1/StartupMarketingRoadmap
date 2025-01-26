@@ -6,22 +6,22 @@ Marketing starts long before you launch. Market research, planning, and preparat
 
 > _I have been up against tough competition all my life. I wouldn't know how to get along without it._ - Walt Disney
 
-- [ ] Make a list of competitors (see [this list of tools to research competitors](https://draft.dev/learn/competition-research-tools)).
-- [ ] Competitor data to collect:
-  - [ ] Link to their website.
-  - [ ] "One-liners" and taglines competitors use.
-  - [ ] Pricing and business model.
-  - [ ] Blog/RSS link.
-  - [ ] Social media links.
-  - [ ] Key employees on social media.
-- [ ] Subscribe to RSS feeds of your competitors' blogs.
-- [ ] Follow your competitors and their key employees on social media.
-- [ ] Monitor competitors' websites for changes.
-- [ ] Site monitoring tools to try:
-  - [ ] [Deep Dive Duck](https://deepdiveduck.com/)
-  - [ ] [Versionista](https://versionista.com/)
-- [ ] Subscribe to industry newsletters, magazines, trade journals etc.
-- [ ] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research.
+- [x] Make a list of competitors (see [this list of tools to research competitors](https://draft.dev/learn/competition-research-tools)).
+- [x] Competitor data to collect:
+  - [x] Link to their website.
+  - [x] "One-liners" and taglines competitors use.
+  - [x] Pricing and business model.
+  - [x] Blog/RSS link.
+  - [x] Social media links.
+  - [x] Key employees on social media.
+- [x] Subscribe to RSS feeds of your competitors' blogs.
+- [x] Follow your competitors and their key employees on social media.
+- [x] Monitor competitors' websites for changes.
+- [x] Site monitoring tools to try:
+  - [x] [Deep Dive Duck](https://deepdiveduck.com/)
+  - [x] [Versionista](https://versionista.com/)
+- [x] Subscribe to industry newsletters, magazines, trade journals etc.
+- [x] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research.
 
 ### Customer Research
 
