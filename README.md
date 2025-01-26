@@ -27,53 +27,53 @@ Marketing starts long before you launch. Market research, planning, and preparat
 
 > _If we knew what we were doing it wouldn’t be called research._ - Albert Einstein
 
-- [ ] Find people in your contact list who might be future customers. Get their feedback on your idea.
-- [ ] Attend meetups or conferences for your target market.
-- [ ] Meet another entrepreneur who has a similar or competitive product.
-- [ ] Make a list of your competitors' customers:
-  - [ ] Check competitors' Twitter followers, mentions.
-  - [ ] Look through their Facebook fans.
-  - [ ] Find people who follow them on Linkedin.
-  - [ ] Check their website. Some companies list customer stories on their websites.
-- [ ] Reach out to your competitors' customers, find out what they like/don't like.
-- [ ] Create an "early access" list for potential future customers.
+- [x] Find people in your contact list who might be future customers. Get their feedback on your idea.
+- [x] Attend meetups or conferences for your target market.
+- [x] Meet another entrepreneur who has a similar or competitive product.
+- [x] Make a list of your competitors' customers:
+  - [x] Check competitors' Twitter followers, mentions.
+  - [x] Look through their Facebook fans.
+  - [x] Find people who follow them on Linkedin.
+  - [x] Check their website. Some companies list customer stories on their websites.
+- [x] Reach out to your competitors' customers, find out what they like/don't like.
+- [x] Create an "early access" list for potential future customers.
 
 ### PR (Public Relations) Preparations
 
-- [ ] Create list of tech, startup, and industry blogs.
-- [ ] Create list of local small business journals.
-- [ ] Create list of local bloggers and journalists in your industry.
-- [ ] Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
+- [x] Create list of tech, startup, and industry blogs.
+- [x] Create list of local small business journals.
+- [x] Create list of local bloggers and journalists in your industry.
+- [x] Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
 
 ### Website Setup
 
-- [ ] Come up with a name and domain name.
-- [ ] Write a site tagline and elevator pitch.
-- [ ] Create a logo (see [this list of logo creation tools](https://draft.dev/learn/logo-creation-tools)).
-- [ ] Set up a landing page (see [this list of landing page tools](https://draft.dev/learn/tools/landing-pages)).
-- [ ] Create "About" and "Contact" pages.
-- [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
+- [x] Come up with a name and domain name.
+- [x] Write a site tagline and elevator pitch.
+- [x] Create a logo (see [this list of logo creation tools](https://draft.dev/learn/logo-creation-tools)).
+- [x] Set up a landing page (see [this list of landing page tools](https://draft.dev/learn/tools/landing-pages)).
+- [x] Create "About" and "Contact" pages.
+- [x] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
 - [ ] Consider/test various pricing options:
-  - [ ] Create a free or trial tier for your paid product.
-  - [ ] Offer a 100% satisfaction/money-back guarantee.
-  - [ ] Make product invite-only to start.
-  - [ ] Offer free/discounted access for early adopters/beta testers.
-- [ ] Add social media follow links to landing page.
-- [ ] Set up analytics to learn about who signs up, bounces, etc.
-- [ ] Analytics platforms to try:
-  - [ ] [Google Analytics](https://analytics.google.com)
+  - [x] Create a free or trial tier for your paid product.
+  - [x] Offer a 100% satisfaction/money-back guarantee.
+  - [x] Make product invite-only to start.
+  - [x] Offer free/discounted access for early adopters/beta testers.
+- [x] Add social media follow links to landing page.
+- [x] Set up analytics to learn about who signs up, bounces, etc.
+- [x] Analytics platforms to try:
+  - [x] [Google Analytics](https://analytics.google.com)
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
   - [ ] [Plausible Analytics](https://plausible.io/)
   - [ ] [Smartlook](https://www.smartlook.com/)
-- [ ] Set up error logging, monitoring, capturing, etc.
+- [x] Set up error logging, monitoring, capturing, etc.
 - [ ] Error monitoring tools to try:
   - [ ] [Bugsnag](https://www.bugsnag.com/)
   - [ ] [Rollbar](https://rollbar.com/)
   - [ ] [Sentry](https://sentry.io/welcome/)
 - [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](https://draft.dev/learn/customer-chat-tools)).
-- [ ] Test your website for common SEO, speed, and security problems like broken links, missing page titles and insecure pages (see [Checkbot](https://www.checkbot.io)).
+- [x] Test your website for common SEO, speed, and security problems like broken links, missing page titles and insecure pages (see [Checkbot](https://www.checkbot.io)).
 
 ### Email Setup
 
@@ -81,7 +81,7 @@ Marketing starts long before you launch. Market research, planning, and preparat
 
 > _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
 
-- [ ] Set up email address to send and receive emails.
+- [x] Set up email address to send and receive emails.
 - [ ] Set up email list and signup form.
 - [ ] Create a standard email template for your brand.
 - [ ] Create transactional emails for when users sign up/purchase.
@@ -90,9 +90,9 @@ Marketing starts long before you launch. Market research, planning, and preparat
 
 > _Content Marketing is all the marketing that’s left._ - Seth Godin
 
-- [ ] Choose a blogging platform (see this list of [blogging platforms for your startup](https://draft.dev/learn/startup-blogging-platforms)).
-- [ ] Research [keywords that you'd like your site to rank for](https://draft.dev/learn/topic-clusters).
-- [ ] Keyword research tools to try:
+- [x] Choose a blogging platform (see this list of [blogging platforms for your startup](https://draft.dev/learn/startup-blogging-platforms)).
+- [x] Research [keywords that you'd like your site to rank for](https://draft.dev/learn/topic-clusters).
+- [x] Keyword research tools to try:
   - [Ahrefs](https://ahrefs.com/)
   - [SpyFu](https://www.spyfu.com/)
   - [SEMrush](https://www.semrush.com/)
@@ -101,8 +101,8 @@ Marketing starts long before you launch. Market research, planning, and preparat
   - [KWFinder](https://kwfinder.com/)
   - [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
   - [Ubersuggest](https://neilpatel.com/ubersuggest/)
-- [ ] Create anchor posts or pages for keywords you'd like to rank for.
-- [ ] Have a blog post brainstorming session (see this [big list of blog post ideas](https://draft.dev/learn/startup-blog-ideas)).
+- [x] Create anchor posts or pages for keywords you'd like to rank for.
+- [x] Have a blog post brainstorming session (see this [big list of blog post ideas](https://draft.dev/learn/startup-blog-ideas)).
 - [ ] Add email signup form or link to all blog posts.
 - [ ] Add social media follow links to all blog posts.
 
@@ -110,16 +110,16 @@ Marketing starts long before you launch. Market research, planning, and preparat
 
 > _Social media is the ultimate equalizer. It gives a voice and a platform to anyone willing to engage._ - Amy Jo Martin, CEO of Digital Royalty
 
-- [ ] Search for availability of names on social networks using [KnowEm](https://knowem.com/).
-- [ ] Choose the social media accounts you'll use:
+- [x] Search for availability of names on social networks using [KnowEm](https://knowem.com/).
+- [x] Choose the social media accounts you'll use:
   - [ ] Facebook
-  - [ ] Twitter
+  - [x] Twitter
   - [ ] Linkedin
-  - [ ] Pinterest
-  - [ ] Instagram
+  - [x] Pinterest
+  - [x] Instagram
   - [ ] Snapchat
-  - [ ] YouTube
-- [ ] Standardize profile image, background photo, links and call to action across social channels.
+  - [x] YouTube
+- [x] Standardize profile image, background photo, links and call to action across social channels.
 - [ ] Consider putting premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
 
 ## Post-Launch
